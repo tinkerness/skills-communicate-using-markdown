@@ -12,5 +12,15 @@
 
 The above shows the various **_types of headers_** that can be created using just a #, followed by a space, before any content to be made into a header.
 
-Observe the image below: 
+## Observe the image below: 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## markdown for code block
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
