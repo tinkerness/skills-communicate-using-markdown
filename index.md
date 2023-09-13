@@ -10,4 +10,7 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-This shows the various types of headers that can be created using just a #, followed by a space, before any content to be made into a header.
+The above shows the various **_types of headers_** that can be created using just a #, followed by a space, before any content to be made into a header.
+
+Observe the image below: 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
